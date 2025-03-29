@@ -12,6 +12,10 @@ Prisma,
 HTML / CSS,
 Canva.
 
+## 📬 Contato
+
+[![Email](https://img.shields.io/badge/Email-seuemail@email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vieiraashley68@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visitar-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ashley-vieira-code)
 
 
 
